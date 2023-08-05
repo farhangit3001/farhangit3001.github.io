@@ -1279,6 +1279,7 @@ audio {
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
+	animation-duration: 3s;
 }
 
 .btn-primary {
