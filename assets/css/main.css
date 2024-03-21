@@ -3344,7 +3344,7 @@ input, select, textarea {
 				}
 
 			#wrapper > section.intro {
-				align-items: left;
+				align-items: center;
 			}
 
 				#wrapper > section.intro > header {
