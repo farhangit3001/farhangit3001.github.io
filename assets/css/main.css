@@ -3352,13 +3352,13 @@ input, select, textarea {
 					width: 100%;
 				}
 
-					/* #wrapper > section.intro > header > * {
+					#wrapper > section.intro > header > * {
 						margin-left: auto;
 					}
 
 					#wrapper > section.intro > header:before {
 						left: auto;
-					} */
+					}
 
 				#wrapper > section.intro > .content {
 					height: 100vh;
